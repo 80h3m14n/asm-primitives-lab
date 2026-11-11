@@ -1,0 +1,29 @@
+# Ignore build artifacts
+build/
+*.o
+*.out
+*.elf
+
+# Ignore editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+tmp/
+temp/
+
+# Ignore test files
+*.test
+
+# Ignore executable files (optional)
+*.exe
+*.bin
